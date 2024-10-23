@@ -15,6 +15,12 @@ const Navbar = () => {
         <li>Portfolio</li>
         <li>Contact</li>
       </ul>
+
+      <input
+        type='text'
+        placeholder='Search'
+        className='py-2 w-[200px] border px-2 text-xs rounded'
+      />
     </nav>
   );
 };
