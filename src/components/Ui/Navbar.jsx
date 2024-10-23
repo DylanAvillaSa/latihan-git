@@ -13,6 +13,7 @@ const Navbar = () => {
         <li>Home</li>
         <li>About</li>
         <li>Contact</li>
+        <li>Hacked</li>
       </ul>
     </nav>
   );
