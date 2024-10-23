@@ -1,7 +1,9 @@
+import Navbar from "./components/Ui/Navbar";
+
 const RootPage = () => {
   return (
     <main>
-      <h1>Hello world</h1>
+      <Navbar />
     </main>
   );
 };
