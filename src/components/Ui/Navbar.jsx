@@ -12,8 +12,8 @@ const Navbar = () => {
       <ul className='flex gap-5 items-center text-xs font-light'>
         <li>Home</li>
         <li>About</li>
+        <li>Portfolio</li>
         <li>Contact</li>
-        <li>Hacked</li>
       </ul>
     </nav>
   );
